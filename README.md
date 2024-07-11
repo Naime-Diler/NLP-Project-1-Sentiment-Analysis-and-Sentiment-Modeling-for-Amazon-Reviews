@@ -12,13 +12,6 @@ This project focuses on analyzing and modeling sentiments from Amazon product re
 ## Introduction
 This repository provides an end-to-end solution for sentiment analysis on Amazon reviews. It covers the entire pipeline from data preprocessing to sentiment classification using machine learning models.
 
-## Requirements
-To install the necessary packages, run:
-```bash
-!pip install nltk
-!pip install textblob
-!pip install wordcloud
-
 
 
 ## Text Preprocessing
