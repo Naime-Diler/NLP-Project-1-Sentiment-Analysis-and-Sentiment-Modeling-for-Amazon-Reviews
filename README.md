@@ -17,11 +17,16 @@ This repository provides an end-to-end solution for sentiment analysis on Amazon
 ## Text Preprocessing
 The preprocessing steps involve:
 
-Converting text to lowercase
-Removing punctuations and numbers
-Removing stopwords
-Removing rare words
-Tokenization
+Converting text to lowercase,
+
+Removing punctuations and numbers,
+
+Removing stopwords,
+
+Removing rare words,
+
+Tokenization,
+
 Lemmatization
 
 
