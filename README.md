@@ -1,4 +1,4 @@
-# NLP Project 1: Sentiment Analysis and Modeling for Amazon Reviews with Comprehensive Dataset Analysis
+# NLP Project 1: Sentiment Analysis and Sentiment Modeling for Amazon Reviews
 
 This project focuses on analyzing and modeling sentiments from Amazon product reviews. The workflow includes text preprocessing, visualization, sentiment analysis, feature engineering, and sentiment modeling.
 
